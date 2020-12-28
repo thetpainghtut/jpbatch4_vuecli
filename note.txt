@@ -1,0 +1,28 @@
+Vue CLI Project Flow
+-------------------
+  - node-modules
+    - node package data files (npm)
+  - public
+    - starting point
+    - index.html (our single page)
+  - src
+    - assets
+      - css/js/photo
+    - components
+      - reusable ui part with custom data
+    - App.vue
+      - Master UI
+    - main.js
+      - application starting source ()
+  - package.json
+    - our used package
+
+Vue File Part
+-------------
+  - template (HTML)
+  - script (JS)
+  - style (CSS)
+
+API
+---
+  - http://localhost:8000/categories
